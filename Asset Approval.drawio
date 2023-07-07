@@ -1,9 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T17:13:42.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="Oh01lZmGKspeVjAjT4zz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T17:14:06.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vkmdr8BJqlPu-mkutuH4" version="21.5.2" type="github">
   <diagram name="Page-1" id="PZb6cSO_VA3QjaMXQ5yu">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-1" value="Asset Approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="398" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnwDuhuiWg39JnlKbjTv-4" target="AnwDuhuiWg39JnlKbjTv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-3" value="Initiate Asset Approval Request&lt;br&gt;Actions: 1) Assign to supplier&lt;br&gt;2) Set user asset status to pending approval&lt;br&gt;3) Notify supplier &quot;New Editable Asset Approval Request&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AnwDuhuiWg39JnlKbjTv-2">
+          <mxGeometry x="-0.525" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-4" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-5" value="Approve Asset&lt;br&gt;Actions: 1) Set user asset status to approved&lt;br&gt;2) Notify creator&lt;br&gt;3) Return to creator" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AnwDuhuiWg39JnlKbjTv-8" target="AnwDuhuiWg39JnlKbjTv-9">
+          <mxGeometry x="0.5668" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnwDuhuiWg39JnlKbjTv-8" target="AnwDuhuiWg39JnlKbjTv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-7" value="Reject Asset&lt;br&gt;Actions: 1) Reject user asset (status to draft)&lt;br&gt;2) Notify creator of rejection&lt;br&gt;3) Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AnwDuhuiWg39JnlKbjTv-6">
+          <mxGeometry x="-0.2208" y="2" relative="1" as="geometry">
+            <mxPoint x="48" y="62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-8" value="Awaiting Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-9" value="Approved" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AnwDuhuiWg39JnlKbjTv-12" target="AnwDuhuiWg39JnlKbjTv-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="596.5" y="460" as="sourcePoint" />
+            <mxPoint x="403.5" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-11" value="Resubmit Rejected Asset&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Actions: 1) Assign to supplier&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2) Set user asset status to pending approval&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3) Notify supplier &quot;Editable Asset Approval Request Resubmitted&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AnwDuhuiWg39JnlKbjTv-10">
+          <mxGeometry x="0.7931" y="-1" relative="1" as="geometry">
+            <mxPoint x="10" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnwDuhuiWg39JnlKbjTv-12" value="Rejected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
