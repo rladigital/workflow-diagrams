@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T17:08:10.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.1" etag="WGvDZfTm3l--dR09qdZr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T17:08:45.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SoSLS3vvKK6lGiECKPS_" version="21.5.2" type="github">
   <diagram name="Page-1" id="FYUkmZWORZIpFQucFmt-">
-    <mxGraphModel>
+    <mxGraphModel dx="607" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-1" value="Campaign Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tir23ISkjk8P7xLJfe4Q-4" target="Tir23ISkjk8P7xLJfe4Q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-3" value="Submit for Approval&lt;br&gt;Action: Escalate to role: client-services" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tir23ISkjk8P7xLJfe4Q-2">
+          <mxGeometry x="-0.36" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-4" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1076" y="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-5" value="Approve&lt;br&gt;Action: Escalate to role: area-manager" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tir23ISkjk8P7xLJfe4Q-8" target="Tir23ISkjk8P7xLJfe4Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tir23ISkjk8P7xLJfe4Q-8" target="Tir23ISkjk8P7xLJfe4Q-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-7" value="Decline&lt;br&gt;Actions: 1) Add a comment&lt;br&gt;2) Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tir23ISkjk8P7xLJfe4Q-6">
+          <mxGeometry x="-0.2208" y="2" relative="1" as="geometry">
+            <mxPoint x="-130" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-8" value="Awaiting Agency Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tir23ISkjk8P7xLJfe4Q-13" target="Tir23ISkjk8P7xLJfe4Q-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-10" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Action: Escalate to role: head-office" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tir23ISkjk8P7xLJfe4Q-9">
+          <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tir23ISkjk8P7xLJfe4Q-13" target="Tir23ISkjk8P7xLJfe4Q-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-12" value="Decline&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Actions: 1) Add a comment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2) Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tir23ISkjk8P7xLJfe4Q-11">
+          <mxGeometry x="-0.0056" y="1" relative="1" as="geometry">
+            <mxPoint x="-119" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-13" value="Awaiting Area Manager Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tir23ISkjk8P7xLJfe4Q-18" target="Tir23ISkjk8P7xLJfe4Q-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-15" value="Decline&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Actions: 1) Add a comment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2) Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tir23ISkjk8P7xLJfe4Q-14">
+          <mxGeometry x="0.3905" y="1" relative="1" as="geometry">
+            <mxPoint x="-91" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tir23ISkjk8P7xLJfe4Q-18" target="Tir23ISkjk8P7xLJfe4Q-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-17" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Action: Send notification to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tir23ISkjk8P7xLJfe4Q-16">
+          <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-18" value="Awaiting Head Office Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-19" value="Approved" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1041" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tir23ISkjk8P7xLJfe4Q-20" value="Declined" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1321" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
