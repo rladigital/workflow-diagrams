@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T17:09:18.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.1" etag="gHBVZUtW822x0M0gMVhT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T17:09:42.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LphRYcpuMCkSeTuK3ehL" version="21.5.2" type="github">
   <diagram name="Page-1" id="q4ic_3UBJjM-jKloe3kP">
-    <mxGraphModel>
+    <mxGraphModel dx="-220" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-1" value="Marketing Plan Approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1915" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-3" value="Submit to Area Manager&lt;br&gt;Action: Escalate to role: area-manager" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_rUnU2Uktuniv8L3YQGV-2" target="_rUnU2Uktuniv8L3YQGV-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1940" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_rUnU2Uktuniv8L3YQGV-8" target="_rUnU2Uktuniv8L3YQGV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-5" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Actions: Escalate to role: head-office" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_rUnU2Uktuniv8L3YQGV-4">
+          <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_rUnU2Uktuniv8L3YQGV-8" target="_rUnU2Uktuniv8L3YQGV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-7" value="Decline&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Actions: 1) Add a comment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2) Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_rUnU2Uktuniv8L3YQGV-6">
+          <mxGeometry x="-0.0056" y="1" relative="1" as="geometry">
+            <mxPoint x="-119" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-8" value="Awaiting Area Manager Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_rUnU2Uktuniv8L3YQGV-13" target="_rUnU2Uktuniv8L3YQGV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-10" value="Decline&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Actions: 1) Add a comment&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2) Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_rUnU2Uktuniv8L3YQGV-9">
+          <mxGeometry x="0.3905" y="1" relative="1" as="geometry">
+            <mxPoint x="-91" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_rUnU2Uktuniv8L3YQGV-13" target="_rUnU2Uktuniv8L3YQGV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-12" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Actions: 1) Approve plan&lt;br&gt;2) Send notification to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_rUnU2Uktuniv8L3YQGV-11">
+          <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-13" value="Awaiting Head Office Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-14" value="Approved" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_rUnU2Uktuniv8L3YQGV-15" value="Declined" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
