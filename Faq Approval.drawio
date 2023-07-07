@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T17:12:30.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.1" etag="bdM0SMq0OBibwZ21kleO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T17:12:58.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XbH8mLv0xw7uXu6JNJNa" version="21.5.2" type="github">
   <diagram name="Page-1" id="AryfZU0ajeZqFeWQ1ZXH">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-1" value="Faq Approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="323" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trDyKkuLdGZkgZmmJcgB-3" target="trDyKkuLdGZkgZmmJcgB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-3" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-4" value="Question Answered&lt;br&gt;Action: Notify creator of answer" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="trDyKkuLdGZkgZmmJcgB-7" target="trDyKkuLdGZkgZmmJcgB-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trDyKkuLdGZkgZmmJcgB-7" target="trDyKkuLdGZkgZmmJcgB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-6" value="Reject Question&lt;br&gt;Actions: 1) Suggest an existing Question&lt;br&gt;2) Notify creator of rejection" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="trDyKkuLdGZkgZmmJcgB-5">
+          <mxGeometry x="-0.2208" y="2" relative="1" as="geometry">
+            <mxPoint x="77" y="42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-7" value="Question Submitted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="trDyKkuLdGZkgZmmJcgB-12" target="trDyKkuLdGZkgZmmJcgB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-9" value="Question Answered And Publish&lt;br&gt;Action: Notify creator of answer published" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="trDyKkuLdGZkgZmmJcgB-8">
+          <mxGeometry x="0.075" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trDyKkuLdGZkgZmmJcgB-12" target="trDyKkuLdGZkgZmmJcgB-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="380" />
+              <mxPoint x="175" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-11" value="Publish Question" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="trDyKkuLdGZkgZmmJcgB-10">
+          <mxGeometry x="-0.045" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-12" value="Question Answered" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-13" value="Question Rejected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="trDyKkuLdGZkgZmmJcgB-14" value="Published" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
