@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T16:36:22.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eh4T15CbPtNFMV8DO9KS" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T17:48:14.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="srerN7e-12R5JV2Wgj56" version="22.1.18" type="github">
   <diagram name="Page-1" id="g8kd3u3a0-bAyPNDsPi0">
     <mxGraphModel dx="2074" dy="1186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="67OT6ql0mRP8qZp6wruK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="67OT6ql0mRP8qZp6wruK-28" target="0Vi8RChmk7Yy_pR4jddX-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-10" value="Begin Head Office Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="67OT6ql0mRP8qZp6wruK-42">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-10" value="Begin Head Office Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="67OT6ql0mRP8qZp6wruK-42" vertex="1" connectable="0">
           <mxGeometry x="-0.1111" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -693,7 +693,7 @@
         <mxCell id="67OT6ql0mRP8qZp6wruK-231" value="Complete" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="202" y="2400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CWvPOn1pxoy_9W4YT2eB-67" value="Custom Asset Amendment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="CWvPOn1pxoy_9W4YT2eB-67" value="Custom Asset Amendment &lt;br&gt;- OLD inc studio manager approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="960" y="1250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CWvPOn1pxoy_9W4YT2eB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CWvPOn1pxoy_9W4YT2eB-70" target="CWvPOn1pxoy_9W4YT2eB-80" edge="1">
@@ -948,49 +948,243 @@
         <mxCell id="CWvPOn1pxoy_9W4YT2eB-120" value="Rejected" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="1560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="67OT6ql0mRP8qZp6wruK-26" target="0Vi8RChmk7Yy_pR4jddX-1">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="67OT6ql0mRP8qZp6wruK-26" target="0Vi8RChmk7Yy_pR4jddX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="739" y="-2" as="sourcePoint" />
             <mxPoint x="737" y="152" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-3" value="Begin Area Manager Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Vi8RChmk7Yy_pR4jddX-2">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-3" value="Begin Area Manager Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0Vi8RChmk7Yy_pR4jddX-2" vertex="1" connectable="0">
           <mxGeometry x="-0.2857" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-1" value="Area Manager Approval in Progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-1" value="Area Manager Approval in Progress" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="679" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="67OT6ql0mRP8qZp6wruK-27" target="0Vi8RChmk7Yy_pR4jddX-4">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="67OT6ql0mRP8qZp6wruK-27" target="0Vi8RChmk7Yy_pR4jddX-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="737" y="160" as="sourcePoint" />
             <mxPoint x="739" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-6" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Action: Escalate to role: head-office" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Vi8RChmk7Yy_pR4jddX-5">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-6" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Action: Escalate to role: head-office" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0Vi8RChmk7Yy_pR4jddX-5" vertex="1" connectable="0">
           <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="94" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-7" value="Begin Area Manager Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Vi8RChmk7Yy_pR4jddX-5">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-7" value="Begin Area Manager Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0Vi8RChmk7Yy_pR4jddX-5" vertex="1" connectable="0">
           <mxGeometry x="-0.2857" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-4" value="Awaiting Area Manager Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-4" value="Awaiting Area Manager Approval" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="677" y="202" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0Vi8RChmk7Yy_pR4jddX-8" target="67OT6ql0mRP8qZp6wruK-29">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0Vi8RChmk7Yy_pR4jddX-8" target="67OT6ql0mRP8qZp6wruK-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-11" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Action: Send notification to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Vi8RChmk7Yy_pR4jddX-9">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-11" value="Approve&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Action: Send notification to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0Vi8RChmk7Yy_pR4jddX-9" vertex="1" connectable="0">
           <mxGeometry x="-0.75" y="3" relative="1" as="geometry">
             <mxPoint x="-1" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Vi8RChmk7Yy_pR4jddX-8" value="Approved" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Vi8RChmk7Yy_pR4jddX-8" value="Approved" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="679" y="402" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-1" value="Custom Asset Amendment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1653" y="1757" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-4" target="ki2eRrJWYG4YQyDlqmND-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-3" value="Request Quotation&lt;br&gt;Actions: 1) Assign to supplier&lt;br&gt;2) Assign to team &quot;client-services&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-2">
+          <mxGeometry x="-0.35" relative="1" as="geometry">
+            <mxPoint y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-4" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1648" y="1817" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-11" target="ki2eRrJWYG4YQyDlqmND-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-6" value="Approve Quotation&lt;br&gt;Actions: 1) Approve quote&lt;br&gt;2) Assign to team &quot;client-services&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-5">
+          <mxGeometry x="0.4769" relative="1" as="geometry">
+            <mxPoint x="-4" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-11" target="ki2eRrJWYG4YQyDlqmND-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1953" y="2127" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1773" y="2097" />
+              <mxPoint x="1773" y="2147" />
+              <mxPoint x="1953" y="2147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-8" value="More Information Required&lt;br&gt;Action: Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-7">
+          <mxGeometry x="-0.425" y="-3" relative="1" as="geometry">
+            <mxPoint x="95" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-11" target="ki2eRrJWYG4YQyDlqmND-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1493" y="2087" />
+              <mxPoint x="1493" y="1967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-10" value="Reject Quotation&lt;br style=&quot;border-color: var(--border-color); background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Action: Assign to team &quot;client-services&quot;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-9">
+          <mxGeometry x="-0.0056" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-11" value="Awaiting Quote Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1613" y="2067" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-14" target="ki2eRrJWYG4YQyDlqmND-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-13" value="Add a Quotation&lt;br&gt;Actions: 1) Add a quote form&lt;br&gt;2) Return to owner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-12">
+          <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-14" value="Awaiting Quote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1611" y="1947" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-17" target="ki2eRrJWYG4YQyDlqmND-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1953" y="2057" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1953" y="2027" />
+              <mxPoint x="1773" y="2027" />
+              <mxPoint x="1773" y="2077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-16" value="More Information Provided&lt;br&gt;Action: Assign to team &lt;br&gt;&quot;client-services&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-15">
+          <mxGeometry x="0.1136" y="2" relative="1" as="geometry">
+            <mxPoint x="45" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-17" value="More Information Required" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="2067" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-24" target="ki2eRrJWYG4YQyDlqmND-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1495" y="2327" />
+              <mxPoint x="1495" y="2207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-19" value="Return To Client Services&lt;br&gt;Action: Assign to team &quot;client-services&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-18">
+          <mxGeometry x="0.1111" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1642.5" y="2347" as="sourcePoint" />
+            <mxPoint x="1642.5" y="2427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1643" y="2387" />
+              <mxPoint x="1643" y="2387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-21" value="Move To In Progress With &lt;br&gt;Specific Studio Worker&lt;br&gt;Action: Assign to user in role &quot;studio&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-20">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="-53" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-24" target="ki2eRrJWYG4YQyDlqmND-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-23" value="Move To In Progress With Me&lt;br&gt;Action: assign to active user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-22">
+          <mxGeometry x="-0.3" y="3" relative="1" as="geometry">
+            <mxPoint x="57" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-24" value="Ready for Work, Awaiting Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2307" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-27" target="ki2eRrJWYG4YQyDlqmND-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-26" value="Assign To Studio&lt;br&gt;Action: Assign to team &quot;studio&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-25">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-27" value="Awaiting Client Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2187" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-30" target="ki2eRrJWYG4YQyDlqmND-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1675" y="2547" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-29" value="Work Complete&lt;br&gt;Action: assign to role &quot;studio-manager&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-28">
+          <mxGeometry x="-0.3" y="-1" relative="1" as="geometry">
+            <mxPoint x="3" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-30" value="In Progress With Studio Worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2427" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-40" target="ki2eRrJWYG4YQyDlqmND-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-37" value="Approve Studio Work&lt;br&gt;Action: Return to creator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-36">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-40" target="ki2eRrJWYG4YQyDlqmND-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-39" value="Reject Studio Work&lt;br&gt;Action: Assign to team&lt;br&gt;&amp;nbsp;&quot;studio&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-38">
+          <mxGeometry x="-0.1875" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-40" value="Awaiting Client Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2552" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-45" target="ki2eRrJWYG4YQyDlqmND-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1495" y="2692" />
+              <mxPoint x="1495" y="2572" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-42" value="Reject Work&lt;br&gt;Action: Assign to team &quot;client-services&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-41">
+          <mxGeometry x="0.0556" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ki2eRrJWYG4YQyDlqmND-45" target="ki2eRrJWYG4YQyDlqmND-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-44" value="Approve Studio Work" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ki2eRrJWYG4YQyDlqmND-43">
+          <mxGeometry x="-0.175" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-45" value="Agency Approved, Awaiting Dealer Approval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2672" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-46" value="Ready for Work, Awaiting Scheduling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1893" y="2552" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ki2eRrJWYG4YQyDlqmND-47" value="Complete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2792" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
